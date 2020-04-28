@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">吃什么？</string>
+    <string name="btn_whatever">随便</string>
+    <string name="btn_add">添加</string>
+    <string name="breakfast">早餐</string>
+    <string name="lunch">午餐</string>
+    <string name="dinner">晚餐</string>
+    <string name="hint_text">新增食物</string>
+    <string name="menu_edit">编辑</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_delete_all">删除所有</string>
+    <string name="edit">修改</string>
+    </resources>

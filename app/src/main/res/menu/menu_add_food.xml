@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+    android:id="@+id/menu_breakfast"
+    android:title="@string/breakfast"
+    android:orderInCategory="1" />
+    <item
+        android:id="@+id/menu_lunch"
+        android:title="@string/lunch"
+        android:orderInCategory="2" />
+    <item
+        android:id="@+id/menu_dinner"
+        android:title="@string/dinner"
+        android:orderInCategory="3" />
+</menu>

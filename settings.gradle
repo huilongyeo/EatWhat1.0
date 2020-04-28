@@ -1,0 +1,2 @@
+rootProject.name='EatWhat1.0'
+include ':app'
